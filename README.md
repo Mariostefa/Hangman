@@ -13,6 +13,7 @@ Features
 	 - Normal words 
 	 -  Hard words
 </br>
+
 ![Menu](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/start.png)
  
  2. Every time someone writes a wrong letter the background changes on the darker color (closer to red).
