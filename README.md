@@ -22,13 +22,13 @@ Features
  
  4. It has a point counter.
  
- 5. You can change difficultie at the end of every round.
+ 5. You can change the Difficulty at the end of every round.
  
  ![round lost / word not found](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/lose.png)
  
  ![round won / word found ](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/win.png)
  
- 5. When someone has played all the words on a specific difficultie this difficultie is gonna through an error to notify the user that there are not any more available words on the current difficultie.
+ 5. When someone has played all the words on a specific Difficulty this Difficulty is gonna display an error to notify the user that there are not any more available words on the current Difficulty.
  
 Languages used
 -
