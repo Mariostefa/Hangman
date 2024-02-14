@@ -40,6 +40,6 @@ Languages used
  
  Copyrights
  -
- All rights is belongs to [Mariostefa](https://github.com/Mariostefa).
-Except the images which belongs to [YeasirAR](https://github.com/YeasirAR)
+ All rights is belongs to [Mariostefa](https://github.com/Mariostefa). </br>
+ Except the images which belongs to [YeasirAR](https://github.com/YeasirAR)
  Feel free to use.
