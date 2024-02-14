@@ -16,11 +16,12 @@ Features
 ![Menu](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/start.png)
  
  2. Every time someone writes a wrong letter the background changes on the darker color (closer to red).
+    
 ![wrong choices of letters](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/color_change.png)
  
- 3. It has a point counter.
+ 4. It has a point counter.
  
- 4. You can change difficultie at the end of every round.
+ 5. You can change difficultie at the end of every round.
  
  ![round lost / word not found](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/lose.png)
  
