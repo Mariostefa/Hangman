@@ -8,11 +8,11 @@ Hangman is a simple word game that anyone can play. The first player needs to gu
 
 Features
 -
- 1. The hangman game has the option to selecte between 3**difficulties**:
+ 1. The hangman game has the option to selecte between 3**difficulties**:</br>
 	 - Easy  words  
 	 - Normal words 
 	 -  Hard words
-
+</br>
 ![Menu](https://raw.githubusercontent.com/Mariostefa/Hangman/master/game_photos/start.png)
  
  2. Every time someone writes a wrong letter the background changes on the darker color (closer to red).
@@ -41,5 +41,5 @@ Languages used
  Copyrights
  -
  All rights is belongs to [Mariostefa](https://github.com/Mariostefa). </br>
- Except the images which belongs to [YeasirAR](https://github.com/YeasirAR)
+ Except the images which belongs to [YeasirAR](https://github.com/YeasirAR) </br>
  Feel free to use.
